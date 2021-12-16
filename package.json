@@ -1,0 +1,16 @@
+{
+  "name": "sondakika-api",
+  "version": "1.0.0",
+  "description": "Sondakika.com websitesi üzerinden anlık olarak son dakika bilgilerini çekebileceğiniz rest api oluşumu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mbykplt",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1"
+  }
+}
